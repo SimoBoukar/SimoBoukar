@@ -1,7 +1,7 @@
-[![MasterHead]([https://img.etimg.com/thumb/width-1200,height-900,imgsize-638053,resizemode-75,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg](https://www.thesouthafrican.com/wp-content/uploads/2022/12/ALX-800x529.jpg))]
+[![MasterHead](https://www.thesouthafrican.com/wp-content/uploads/2022/12/ALX-800x529.jpg)]
 <h1 align="center">Hi 👋, I'm Mohammed Boukar</h1>
 <h3 align="center">A passionate software engineer from Morocco</h3>
-<img align="right" alt="Coding" width="400" src="[https://media.tenor.com/7oiVH8ezeoUAAAAd/xiao-genshin-impact.gif](https://i.pinimg.com/originals/50/c5/f1/50c5f1847013012ee0f25f67fdddb8d9.gif)">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/50/c5/f1/50c5f1847013012ee0f25f67fdddb8d9.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=simoboukar&label=Profile%20views&color=0e75b6&style=flat" alt="simoboukar" /> </p>
 
