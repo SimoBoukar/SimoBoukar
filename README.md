@@ -1,4 +1,4 @@
-![MasterHead](https://www.thesouthafrican.com/wp-content/uploads/2022/12/ALX-800x529.jpg)
+![MasterHead]([https://www.thesouthafrican.com/wp-content/uploads/2022/12/ALX-800x529.jpg](https://media.licdn.com/dms/image/D4E16AQEM5Xi2r1fpOQ/profile-displaybackgroundimage-shrink_350_1400/0/1694706328541?e=1707350400&v=beta&t=LlJmiG8pWp81CDjkLq_5mq5Sqcg6uI0-nVzhNYy5X5I))
 <h1 align="center">Hi 👋, I'm Mohammed Boukar</h1>
 <h3 align="center">A passionate software engineer from Morocco</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/50/c5/f1/50c5f1847013012ee0f25f67fdddb8d9.gif">
@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **C, C++ and shell**
 
-- 📫 How to reach me **6bouass9@gmail.com**
+- 📫 How to reach me **simob.contact@gmail.com**
 
 - ⚡ Fun fact **Pro gamer :D**
 
